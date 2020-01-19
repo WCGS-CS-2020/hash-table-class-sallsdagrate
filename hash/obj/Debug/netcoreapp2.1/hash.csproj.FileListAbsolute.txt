@@ -1,0 +1,11 @@
+C:\Users\sumit\source\repos\hash\obj\Debug\netcoreapp2.1\hash.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\hash\obj\Debug\netcoreapp2.1\hash.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\hash\obj\Debug\netcoreapp2.1\hash.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\hash\obj\Debug\netcoreapp2.1\hash.AssemblyInfo.cs
+C:\Users\sumit\source\repos\hash\bin\Debug\netcoreapp2.1\hash.deps.json
+C:\Users\sumit\source\repos\hash\bin\Debug\netcoreapp2.1\hash.runtimeconfig.json
+C:\Users\sumit\source\repos\hash\bin\Debug\netcoreapp2.1\hash.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\hash\bin\Debug\netcoreapp2.1\hash.dll
+C:\Users\sumit\source\repos\hash\bin\Debug\netcoreapp2.1\hash.pdb
+C:\Users\sumit\source\repos\hash\obj\Debug\netcoreapp2.1\hash.dll
+C:\Users\sumit\source\repos\hash\obj\Debug\netcoreapp2.1\hash.pdb
